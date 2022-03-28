@@ -40,7 +40,7 @@ class Saxon extends Soldier {
       return `A Saxon has died in combat`;
     }
   }
-};
+}
 
 // War
 class War {}
